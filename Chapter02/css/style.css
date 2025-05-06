@@ -1,0 +1,12 @@
+/*タイプセレクタ*/
+li{
+    color: red;
+}
+/*クラスセレクタ*/
+.music{
+    color: orange;
+}
+/*IDセレクタ*/
+#bob{
+    color:brown;
+}
